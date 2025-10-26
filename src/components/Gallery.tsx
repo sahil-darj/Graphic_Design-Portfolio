@@ -262,7 +262,7 @@ function Gallery() {
       category: "group",
       medium: "Digital Design",
       description: "LFA Club magazine design and layout",
-      image: "/Assets/LFA/l4.png",
+      image: "/Assets/LFA/l11.png",
     },
 
     {

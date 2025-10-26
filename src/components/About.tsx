@@ -92,7 +92,7 @@ export default function About() {
           {/* Floating small thumbnails */}
           <div className="absolute bottom-[-40px] left-[10%] flex gap-4">
             <img
-              src="/Assets/profile.jpeg"
+              src="/Assets/Profile.jpeg"
               alt="Artwork sample 1"
               className="w-36 h-36 rounded-2xl border border-neutral-700 object-cover shadow-lg hover:scale-105 transition-transform duration-500"
             />
