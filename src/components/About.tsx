@@ -83,7 +83,7 @@ export default function About() {
           {/* Main Image */}
           <div className="relative w-[380px] h-[480px] md:w-[450px] md:h-[540px] rounded-3xl overflow-hidden shadow-2xl border border-neutral-700 bg-gradient-to-br from-neutral-800 to-neutral-900">
             <img
-              src="src/Assets/em.jpg"
+              src="public/Assets/em.jpg"
               alt="Sahil Darji Portrait"
               className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
             />
@@ -92,12 +92,12 @@ export default function About() {
           {/* Floating small thumbnails */}
           <div className="absolute bottom-[-40px] left-[10%] flex gap-4">
             <img
-              src="src/Assets/profile.jpeg"
+              src="public/Assets/profile.jpeg"
               alt="Artwork sample 1"
               className="w-36 h-36 rounded-2xl border border-neutral-700 object-cover shadow-lg hover:scale-105 transition-transform duration-500"
             />
             <img
-              src="src/Assets/121.jpg"
+              src="public/Assets/121.jpg"
               alt="Artwork sample 2"
               className="w-36 h-36 rounded-2xl border border-neutral-700 object-cover shadow-lg hover:scale-105 transition-transform duration-500"
             />

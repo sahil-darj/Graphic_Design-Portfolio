@@ -37,22 +37,22 @@ function Commissions({ scrollToContact }: CommissionsProps) {
   ];
 
   const orderWorks = [
-    "src/Assets/s1.png",
+    "public/Assets/s1.png",
 
-    "src/Assets/clients/13.jpeg",
-    "src/Assets/s2.png",
-    "src/Assets/clients/12.jpeg",
-    "src/Assets/clients/3.png",
-    "src/Assets/clients/8.png",
-    "src/Assets/clients/9.png",
-    "src/Assets/clients/10.png",
-    "src/Assets/clients/11.png",
+    "public/Assets/clients/13.jpeg",
+    "public/Assets/s2.png",
+    "public/Assets/clients/12.jpeg",
+    "public/Assets/clients/3.png",
+    "public/Assets/clients/8.png",
+    "public/Assets/clients/9.png",
+    "public/Assets/clients/10.png",
+    "public/Assets/clients/11.png",
 
-    "src/Assets/clients/2.png",
-    "src/Assets/clients/5.png",
-    "src/Assets/clients/6.png",
-    "src/Assets/clients/7.png",
-    "src/Assets/clients/4.png",
+    "public/Assets/clients/2.png",
+    "public/Assets/clients/5.png",
+    "public/Assets/clients/6.png",
+    "public/Assets/clients/7.png",
+    "public/Assets/clients/4.png",
 
     // add as many images as you have
   ];

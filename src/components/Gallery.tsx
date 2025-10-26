@@ -34,7 +34,7 @@ function Gallery() {
       category: "all",
       medium: "Charcoal & Pencil",
       description: "Detailed traditional drawing technique",
-      image: "src/Assets/joker1.png",
+      image: "public/Assets/joker1.png",
     },
     {
       id: 7,
@@ -43,7 +43,7 @@ function Gallery() {
       medium: "Digital Oil Painting",
       description:
         "Traditional oil painting showcasing realistic portrait techniques",
-      image: "src/Assets/BEST/b5.png",
+      image: "public/Assets/BEST/b5.png",
     },
 
     {
@@ -52,7 +52,7 @@ function Gallery() {
       category: "all",
       medium: "Digital Stencil",
       description: "Bold stencil artwork with intricate layering",
-      image: "src/Assets/BEST/b4.png",
+      image: "public/Assets/BEST/b4.png",
     },
     {
       id: 4,
@@ -60,7 +60,7 @@ function Gallery() {
       category: "digital",
       medium: "Digital Illustration",
       description: "Original character design with vibrant colors",
-      image: "src/Assets/BEST/b3.png",
+      image: "public/Assets/BEST/b3.png",
     },
     {
       id: 5,
@@ -68,7 +68,7 @@ function Gallery() {
       category: "caricature",
       medium: "Digital Caricature",
       description: "Playful exaggerated portrait capturing personality",
-      image: "src/Assets/BEST/b7.png",
+      image: "public/Assets/BEST/b7.png",
     },
     {
       id: 6,
@@ -76,7 +76,7 @@ function Gallery() {
       category: "group",
       medium: "Digital Design",
       description: "LFA Club magazine design and layout",
-      image: "src/Assets/BEST/b2.png",
+      image: "public/Assets/BEST/b2.png",
     },
     {
       id: 2,
@@ -84,7 +84,7 @@ function Gallery() {
       category: "celebrity",
       medium: "Digital Art",
       description: "Digital illustration of renowned personality",
-      image: "src/Assets/BEST/b16.png",
+      image: "public/Assets/BEST/b16.png",
     },
 
     {
@@ -93,7 +93,7 @@ function Gallery() {
       category: "group",
       medium: "Graphic Design",
       description: "College event poster for LFA initiatives",
-      image: "src/Assets/BEST/b1.png",
+      image: "public/Assets/BEST/b1.png",
     },
     {
       id: 0,
@@ -101,7 +101,7 @@ function Gallery() {
       category: "all",
       medium: "Digital Art",
       description: "",
-      image: "src/Assets/LFA/l14.png",
+      image: "public/Assets/LFA/l14.png",
     },
     {
       id: 10,
@@ -109,7 +109,7 @@ function Gallery() {
       category: "group",
       medium: "Graphic Design",
       description: "Poster for college event",
-      image: "src/Assets/LFA/l10.png",
+      image: "public/Assets/LFA/l10.png",
     },
 
     {
@@ -118,7 +118,7 @@ function Gallery() {
       category: "celebrity",
       medium: "Digital Art",
       description: "Digital illustration of renowned personality",
-      image: "src/Assets/BEST/b8.png",
+      image: "public/Assets/BEST/b8.png",
     },
     {
       id: 16,
@@ -126,7 +126,7 @@ function Gallery() {
       category: "celebrity",
       medium: "Digital Caricature Art",
       description: "Digital illustration of renowned personality",
-      image: "src/Assets/Team/t5.webp",
+      image: "public/Assets/Team/t5.webp",
     },
     {
       id: 2000,
@@ -134,7 +134,7 @@ function Gallery() {
       category: "celebrity",
       medium: "Digital Oil Painting",
       description: "Digital illustration of renowned personality",
-      image: "src/Assets/2.webp",
+      image: "public/Assets/2.webp",
     },
     {
       id: 17,
@@ -142,7 +142,7 @@ function Gallery() {
       category: "celebrity",
       medium: "Digital Art",
       description: "Digital illustration of renowned personality",
-      image: "src/Assets/Team/t3.png",
+      image: "public/Assets/Team/t3.png",
     },
     {
       id: 18,
@@ -150,7 +150,7 @@ function Gallery() {
       category: "celebrity",
       medium: "Digital Caricature Art",
       description: "Digital illustration of renowned personality",
-      image: "src/Assets/aly.png",
+      image: "public/Assets/aly.png",
     },
     {
       id: 19,
@@ -158,7 +158,7 @@ function Gallery() {
       category: "celebrity",
       medium: "Digital Art",
       description: "Digital illustration of renowned personality",
-      image: "src/Assets/BEST/b6.png",
+      image: "public/Assets/BEST/b6.png",
     },
     {
       id: 20,
@@ -166,7 +166,7 @@ function Gallery() {
       category: "celebrity",
       medium: "Digital Caricature Art",
       description: "Digital illustration of renowned personality",
-      image: "src/Assets/sudesh.png",
+      image: "public/Assets/sudesh.png",
     },
     {
       id: 21,
@@ -174,7 +174,7 @@ function Gallery() {
       category: "celebrity",
       medium: "Digital Caricature Art",
       description: "Digital illustration of renowned personality",
-      image: "src/Assets/Team/t2.jpg",
+      image: "public/Assets/Team/t2.jpg",
     },
 
     {
@@ -183,7 +183,7 @@ function Gallery() {
       category: "celebrity",
       medium: "Digital Art",
       description: "Digital illustration of renowned personality",
-      image: "src/Assets/celeb/c1.png",
+      image: "public/Assets/celeb/c1.png",
     },
 
     {
@@ -192,7 +192,7 @@ function Gallery() {
       category: "caricature",
       medium: "Digital Caricature",
       description: "Playful exaggerated portrait capturing personality",
-      image: "src/Assets/BEST/b11.png",
+      image: "public/Assets/BEST/b11.png",
     },
 
     {
@@ -201,7 +201,7 @@ function Gallery() {
       category: "caricature",
       medium: "Digital Caricature",
       description: "Playful exaggerated portrait capturing personality",
-      image: "src/Assets/BEST/b9.png",
+      image: "public/Assets/BEST/b9.png",
     },
 
     {
@@ -210,7 +210,7 @@ function Gallery() {
       category: "caricature",
       medium: "Digital Caricature",
       description: "Playful exaggerated portrait capturing personality",
-      image: "src/Assets/caricature/c12.png",
+      image: "public/Assets/caricature/c12.png",
     },
     {
       id: 26,
@@ -218,7 +218,7 @@ function Gallery() {
       category: "caricature",
       medium: "Digital Caricature",
       description: "Playful exaggerated portrait capturing personality",
-      image: "src/Assets/caricature/x7.png",
+      image: "public/Assets/caricature/x7.png",
     },
     {
       id: 24,
@@ -226,7 +226,7 @@ function Gallery() {
       category: "caricature",
       medium: "Digital Caricature",
       description: "Playful exaggerated portrait capturing personality",
-      image: "src/Assets/caricature/c1.png",
+      image: "public/Assets/caricature/c1.png",
     },
 
     {
@@ -235,7 +235,7 @@ function Gallery() {
       category: "caricature",
       medium: "Digital Caricature",
       description: "Playful exaggerated portrait capturing personality",
-      image: "src/Assets/caricature/x8.png",
+      image: "public/Assets/caricature/x8.png",
     },
 
     {
@@ -244,7 +244,7 @@ function Gallery() {
       category: "caricature",
       medium: "Digital Caricature",
       description: "Playful exaggerated portrait capturing personality",
-      image: "src/Assets/caricature/c13.png",
+      image: "public/Assets/caricature/c13.png",
     },
 
     {
@@ -253,7 +253,7 @@ function Gallery() {
       category: "group",
       medium: "Digital Design",
       description: "LFA Club magazine design and layout",
-      image: "src/Assets/LFA/l4.png",
+      image: "public/Assets/LFA/l4.png",
     },
 
     {
@@ -262,7 +262,7 @@ function Gallery() {
       category: "group",
       medium: "Digital Design",
       description: "LFA Club magazine design and layout",
-      image: "src/Assets/LFA/l4.png",
+      image: "public/Assets/LFA/l4.png",
     },
 
     {
@@ -271,7 +271,7 @@ function Gallery() {
       category: "group",
       medium: "Digital Design",
       description: "LFA Club magazine design and layout",
-      image: "src/Assets/LFA/l5.png",
+      image: "public/Assets/LFA/l5.png",
     },
 
     {
@@ -280,7 +280,7 @@ function Gallery() {
       category: "group",
       medium: "Digital Design",
       description: "LFA Club magazine design and layout",
-      image: "src/Assets/LFA/l2.png",
+      image: "public/Assets/LFA/l2.png",
     },
 
     {
@@ -289,7 +289,7 @@ function Gallery() {
       category: "socialmedia",
       medium: "Post",
       description: "",
-      image: "src/Assets/LFA/l8.png",
+      image: "public/Assets/LFA/l8.png",
     },
 
     {
@@ -298,7 +298,7 @@ function Gallery() {
       category: "socialmedia",
       medium: "Post",
       description: "",
-      image: "src/Assets/LFA/l9.png",
+      image: "public/Assets/LFA/l9.png",
     },
     {
       id: 35,
@@ -306,7 +306,7 @@ function Gallery() {
       category: "socialmedia",
       medium: "Post",
       description: "",
-      image: "src/Assets//f1.png",
+      image: "public/Assets//f1.png",
     },
 
     {
@@ -315,7 +315,7 @@ function Gallery() {
       category: "stencil",
       medium: "Stencil",
       description: "Bold stencil artwork with intricate layering",
-      image: "src/Assets/stencil/s1.png",
+      image: "public/Assets/stencil/s1.png",
     },
 
     {
@@ -324,7 +324,7 @@ function Gallery() {
       category: "stencil",
       medium: "Stencil",
       description: "Bold stencil artwork with intricate layering",
-      image: "src/Assets/stencil/s7.png",
+      image: "public/Assets/stencil/s7.png",
     },
 
     {
@@ -333,7 +333,7 @@ function Gallery() {
       category: "stencil",
       medium: "Stencil",
       description: "Bold stencil artwork with intricate layering",
-      image: "src/Assets/stencil/s4.png",
+      image: "public/Assets/stencil/s4.png",
     },
 
     {
@@ -342,7 +342,7 @@ function Gallery() {
       category: "stencil",
       medium: "Stencil",
       description: "Bold stencil artwork with intricate layering",
-      image: "src/Assets/stencil/s5.png",
+      image: "public/Assets/stencil/s5.png",
     },
     {
       id: 40,
@@ -350,7 +350,7 @@ function Gallery() {
       category: "stencil",
       medium: "Stencil",
       description: "Bold stencil artwork with intricate layering",
-      image: "src/Assets/stencil/s3.png",
+      image: "public/Assets/stencil/s3.png",
     },
     {
       id: 41,
@@ -358,7 +358,7 @@ function Gallery() {
       category: "stencil",
       medium: "Stencil",
       description: "Bold stencil artwork with intricate layering",
-      image: "src/Assets/stencil/s10.jpg",
+      image: "public/Assets/stencil/s10.jpg",
     },
 
     {
@@ -367,7 +367,7 @@ function Gallery() {
       category: "stencil",
       medium: "Stencil",
       description: "Bold stencil artwork with intricate layering",
-      image: "src/Assets/stencil/s9.png",
+      image: "public/Assets/stencil/s9.png",
     },
 
     {
@@ -376,7 +376,7 @@ function Gallery() {
       category: "stencil",
       medium: "Stencil",
       description: "Bold stencil artwork with intricate layering",
-      image: "src/Assets/stencil/s2.png",
+      image: "public/Assets/stencil/s2.png",
     },
 
     {
@@ -385,7 +385,7 @@ function Gallery() {
       category: "stencil",
       medium: "Stencil",
       description: "Bold stencil artwork with intricate layering",
-      image: "src/Assets/stencil/s6.png",
+      image: "public/Assets/stencil/s6.png",
     },
 
     {
@@ -395,7 +395,7 @@ function Gallery() {
       medium: "Digital Oil Painting",
       description:
         "Traditional oil painting showcasing realistic portrait techniques",
-      image: "src/Assets/BEST/b5.png",
+      image: "public/Assets/BEST/b5.png",
     },
 
     {
@@ -405,7 +405,7 @@ function Gallery() {
       medium: "Digital Oil Painting",
       description:
         "Traditional oil painting showcasing realistic portrait techniques",
-      image: "src/Assets/order/o6.png",
+      image: "public/Assets/order/o6.png",
     },
 
     {
@@ -415,7 +415,7 @@ function Gallery() {
       medium: "Digital Oil Painting",
       description:
         "Traditional oil painting showcasing realistic portrait techniques",
-      image: "src/Assets/order/o4.jpg",
+      image: "public/Assets/order/o4.jpg",
     },
     {
       id: 46,
@@ -424,7 +424,7 @@ function Gallery() {
       medium: "Digital Oil Painting",
       description:
         "Traditional oil painting showcasing realistic portrait techniques",
-      image: "src/Assets/oil/op3.jpg",
+      image: "public/Assets/oil/op3.jpg",
     },
 
     {
@@ -434,7 +434,7 @@ function Gallery() {
       medium: "Digital Oil Painting",
       description:
         "Traditional oil painting showcasing realistic portrait techniques",
-      image: "src/Assets/hr.png",
+      image: "public/Assets/hr.png",
     },
     {
       id: 55,
@@ -443,7 +443,7 @@ function Gallery() {
       medium: "Digital Oil Painting",
       description:
         "Traditional oil painting showcasing realistic portrait techniques",
-      image: "src/Assets/celeb/c2.png",
+      image: "public/Assets/celeb/c2.png",
     },
     {
       id: 47,
@@ -452,7 +452,7 @@ function Gallery() {
       medium: "Digital Oil Painting",
       description:
         "Traditional oil painting showcasing realistic portrait techniques",
-      image: "src/Assets/oil/op1.png",
+      image: "public/Assets/oil/op1.png",
     },
 
     {
@@ -461,7 +461,7 @@ function Gallery() {
       category: "Logo",
       medium: "Logo",
       description: "",
-      image: "src/Assets/LFA/l14.png",
+      image: "public/Assets/LFA/l14.png",
     },
 
     {
@@ -470,7 +470,7 @@ function Gallery() {
       category: "Logo",
       medium: "Logo",
       description: "",
-      image: "src/Assets/l1.png",
+      image: "public/Assets/l1.png",
     },
 
     {
@@ -479,7 +479,7 @@ function Gallery() {
       category: "digital",
       medium: "Caricature art ",
       description: "Extra artwork to test All Works",
-      image: "src/Assets/order/o7.png",
+      image: "public/Assets/order/o7.png",
     },
 
     {
@@ -488,7 +488,7 @@ function Gallery() {
       category: "digital",
       medium: "Caricature art ",
       description: "Extra artwork to test All Works",
-      image: "src/Assets/order/or4.png",
+      image: "public/Assets/order/or4.png",
     },
 
     {
@@ -497,7 +497,7 @@ function Gallery() {
       category: "digital",
       medium: "Caricature art ",
       description: "Extra artwork to test All Works",
-      image: "src/Assets/order/or1.png",
+      image: "public/Assets/order/or1.png",
     },
 
     {
@@ -506,7 +506,7 @@ function Gallery() {
       category: "digital",
       medium: "Caricature art ",
       description: "Extra artwork to test All Works",
-      image: "src/Assets/order/or2.png",
+      image: "public/Assets/order/or2.png",
     },
 
     {
@@ -515,7 +515,7 @@ function Gallery() {
       category: "digital",
       medium: "Caricature art ",
       description: "Extra artwork to test All Works",
-      image: "src/Assets/order/or3.png",
+      image: "public/Assets/order/or3.png",
     },
     {
       id: 62,
@@ -523,7 +523,7 @@ function Gallery() {
       category: "digital",
       medium: "Digital Painting",
       description: "Extra artwork to test All Works",
-      image: "src/Assets/order/o9.png",
+      image: "public/Assets/order/o9.png",
     },
 
     {
@@ -532,7 +532,7 @@ function Gallery() {
       category: "digital",
       medium: "Caricature art",
       description: "Extra artwork to test All Works",
-      image: "src/Assets/order/o2.png",
+      image: "public/Assets/order/o2.png",
     },
     {
       id: 66,
@@ -540,7 +540,7 @@ function Gallery() {
       category: "digital",
       medium: "Digital Painting",
       description: "Extra artwork to test All Works",
-      image: "src/Assets/order/o13.jpg",
+      image: "public/Assets/order/o13.jpg",
     },
     {
       id: 64,
@@ -548,7 +548,7 @@ function Gallery() {
       category: "digital",
       medium: "Caricature art",
       description: "Extra artwork to test All Works",
-      image: "src/Assets/order/o10.png",
+      image: "public/Assets/order/o10.png",
     },
     {
       id: 65,
@@ -556,7 +556,7 @@ function Gallery() {
       category: "digital",
       medium: "Collage maker",
       description: "Extra artwork to test All Works",
-      image: "src/Assets/order/o11.png",
+      image: "public/Assets/order/o11.png",
     },
 
     {
@@ -565,7 +565,7 @@ function Gallery() {
       category: "digital",
       medium: "Caricature art",
       description: "Extra artwork to test All Works",
-      image: "src/Assets/order/o12.png",
+      image: "public/Assets/order/o12.png",
     },
 
     {
@@ -574,7 +574,7 @@ function Gallery() {
       category: "digital",
       medium: "Digital Painting",
       description: "Extra artwork to test All Works",
-      image: "src/Assets/order/o1.png",
+      image: "public/Assets/order/o1.png",
     },
 
     {
@@ -583,7 +583,7 @@ function Gallery() {
       category: "digital",
       medium: "Caricature art",
       description: "Extra artwork to test All Works",
-      image: "src/Assets/caricature/x8.png",
+      image: "public/Assets/caricature/x8.png",
     },
 
     {
@@ -592,7 +592,7 @@ function Gallery() {
       category: "digital",
       medium: "Caricature art",
       description: "Extra artwork to test All Works",
-      image: "src/Assets/caricature/c1.png",
+      image: "public/Assets/caricature/c1.png",
     },
 
     {
@@ -601,7 +601,7 @@ function Gallery() {
       category: "digital",
       medium: "Caricature art",
       description: "Extra artwork to test All Works",
-      image: "src/Assets/caricature/x7.png",
+      image: "public/Assets/caricature/x7.png",
     },
 
     {
@@ -610,7 +610,7 @@ function Gallery() {
       category: "digital",
       medium: "DIgital Stencil art",
       description: "Extra artwork to test All Works",
-      image: "src/Assets/stencil/s8.png",
+      image: "public/Assets/stencil/s8.png",
     },
 
     {
@@ -619,7 +619,7 @@ function Gallery() {
       category: "handmade",
       medium: "Charcoal & Graphite ",
       description: " artwork to test All Works",
-      image: "src/Assets/3.webp",
+      image: "public/Assets/3.webp",
     },
 
     {
@@ -628,7 +628,7 @@ function Gallery() {
       category: "handmade",
       medium: "Charcoal & Graphite ",
       description: " artwork to test All Works",
-      image: "src/Assets/1.jpeg",
+      image: "public/Assets/1.jpeg",
     },
 
     {
@@ -637,7 +637,7 @@ function Gallery() {
       category: "handmade",
       medium: "Charcoal & Graphite ",
       description: " artwork to test All Works",
-      image: "src/Assets/joker1.png",
+      image: "public/Assets/joker1.png",
     },
 
     {
@@ -646,7 +646,7 @@ function Gallery() {
       category: "handmade",
       medium: "Charcoal & Graphite ",
       description: " artwork to test All Works",
-      image: "src/Assets/4.jpg",
+      image: "public/Assets/4.jpg",
     },
 
     {
@@ -655,7 +655,7 @@ function Gallery() {
       category: "handmade",
       medium: "Wpap art ",
       description: " artwork to test All Works",
-      image: "src/Assets/5.jpg",
+      image: "public/Assets/5.jpg",
     },
 
     {
@@ -664,7 +664,7 @@ function Gallery() {
       category: "handmade",
       medium: "Graphite & Color ",
       description: " artwork to test All Works",
-      image: "src/Assets/8.jpg",
+      image: "public/Assets/8.jpg",
     },
 
     {
@@ -673,7 +673,7 @@ function Gallery() {
       category: "handmade",
       medium: "Wpap art ",
       description: " artwork to test All Works",
-      image: "src/Assets/6.jpg",
+      image: "public/Assets/6.jpg",
     },
 
     {
@@ -682,7 +682,7 @@ function Gallery() {
       category: "handmade",
       medium: "Charcoal & Graphite ",
       description: " artwork to test All Works",
-      image: "src/Assets/4.jpeg",
+      image: "public/Assets/4.jpeg",
     },
 
     {
@@ -691,7 +691,7 @@ function Gallery() {
       category: "handmade",
       medium: "Charcoal & Graphite ",
       description: " artwork to test All Works",
-      image: "src/Assets/5.jpeg",
+      image: "public/Assets/5.jpeg",
     },
     {
       id: 89,
@@ -699,7 +699,7 @@ function Gallery() {
       category: "handmade",
       medium: "Wpap art ",
       description: " artwork to test All Works",
-      image: "src/Assets/7.jpg",
+      image: "public/Assets/7.jpg",
     },
     {
       id: 90,
@@ -707,7 +707,7 @@ function Gallery() {
       category: "handmade",
       medium: "Charcoal & Graphite ",
       description: " artwork to test All Works",
-      image: "src/Assets/6.jpeg",
+      image: "public/Assets/6.jpeg",
     },
     {
       id: 93,
@@ -715,7 +715,7 @@ function Gallery() {
       category: "handmade",
       medium: "Color Pencil ",
       description: " artwork to test All Works",
-      image: "src/Assets/7.jpeg",
+      image: "public/Assets/7.jpeg",
     },
     {
       id: 91,
@@ -723,7 +723,7 @@ function Gallery() {
       category: "handmade",
       medium: "Stencil Handmade ",
       description: " artwork to test All Works",
-      image: "src/Assets/9.jpg",
+      image: "public/Assets/9.jpg",
     },
 
     {
@@ -732,7 +732,7 @@ function Gallery() {
       category: "handmade",
       medium: "Charcoal & Graphite ",
       description: " artwork to test All Works",
-      image: "src/Assets/12.png",
+      image: "public/Assets/12.png",
     },
     // Add more artworks as needed
   ];
