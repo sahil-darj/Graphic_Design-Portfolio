@@ -16,6 +16,7 @@ function Gallery() {
 
   const categories = [
     { id: "all", label: "All Works" },
+    { id: "UIUX", label: "UI/UX Design" },
     { id: "handmade", label: "Handmade Art" },
     { id: "digital", label: "Order Works" },
     { id: "celebrity", label: "Celebrity Portraits" },
@@ -281,6 +282,30 @@ function Gallery() {
       medium: "Digital Design",
       description: "LFA Club magazine design and layout",
       image: "/Assets/LFA/l2.png",
+    },
+    {
+      id: 10201,
+      title: "Marketing Poster",
+      category: "socialmedia",
+      medium: "Post",
+      description: "",
+      image: "/Assets/uiux/lndneatss Photoshop 2.png",
+    },
+    {
+      id: 10202,
+      title: "Marketing Poster",
+      category: "socialmedia",
+      medium: "Post",
+      description: "",
+      image: "/Assets/uiux/lndneatss Photoshop1.png",
+    },
+    {
+      id: 10203,
+      title: "Event Poster",
+      category: "socialmedia",
+      medium: "Post",
+      description: "",
+      image: "/Assets/uiux/lndneatss Canva.png",
     },
 
     {
@@ -734,6 +759,84 @@ function Gallery() {
       description: " artwork to test All Works",
       image: "/Assets/12.png",
     },
+
+    {
+      id: 5500,
+      title: "UIUX Design",
+      category: "UIUX",
+      medium: "Photoshop Design",
+      description: "UI Design For  Responsive Webpage",
+      image: "/Assets/uiux/mo.png",
+    },
+    {
+      id: 5502,
+      title: "UIUX Design",
+      category: "UIUX",
+      medium: "Figma Design",
+      description: "UI Design For  Responsive Webpage",
+      image: "/Assets/uiux/re.png",
+    },
+    {
+      id: 5508,
+      title: "UIUX Design",
+      category: "UIUX",
+      medium: "Photoshop Design",
+      description: "UI Design For  Responsive Webpage",
+      image: "/Assets/uiux/movie4.png",
+    },
+
+    {
+      id: 5501,
+      title: "UIUX Design",
+      category: "UIUX",
+      medium: "Figma Design",
+      description: "UI Design For  Responsive Webpage",
+      image: "/Assets/uiux/Home page (1).png",
+    },
+
+    {
+      id: 5505,
+      title: "UIUX Design",
+      category: "UIUX",
+      medium: "Photoshop Design",
+      description: "UI Design For  Dashboard",
+      image: "/Assets/uiux/Dashboard.png",
+    },
+
+    {
+      id: 5507,
+      title: "UIUX Design",
+      category: "UIUX",
+      medium: "Ai Tools Design",
+      description: "UI Design For Dummy Webpage",
+      image: "/Assets/uiux/Home page.png",
+    },
+    {
+      id: 5506,
+      title: "UIUX Design",
+      category: "UIUX",
+      medium: "Canva Design",
+      description: "UI Design For Mobile APP",
+      image: "/Assets/uiux/mobileapp.png",
+    },
+    {
+      id: 5503,
+      title: "UIUX Design",
+      category: "UIUX",
+      medium: "Canva Design",
+      description: "UI Design For Mobile APP",
+      image: "/Assets/uiux/1.png",
+    },
+
+    {
+      id: 5504,
+      title: "UIUX Design",
+      category: "UIUX",
+      medium: "Canva Design",
+      description: "UI Design For Mobile APP",
+      image: "/Assets/uiux/2.png",
+    },
+
     // Add more artworks as needed
   ];
 
